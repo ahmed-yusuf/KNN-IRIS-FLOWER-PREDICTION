@@ -10,7 +10,7 @@ Software and Libraries
 * Numpy
 * scikit-learn
 
-##Introduction
+## Introduction
 The dataset for this project originates from the UCI Machine Learning Repository. The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
 
 The data set consists of 150 rows and 5 columns which consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor) . Four features were measured from each sample (in centimetres):
@@ -21,7 +21,7 @@ The data set consists of 150 rows and 5 columns which consists of 50 samples fro
 * Width of the petals
 * Species
 
-##Working of the KNN(K Nearest Neighbour)
+## Working of the KNN(K Nearest Neighbour)
 The program takes data from the load_iris() function available in sklearn module.
 
 The dataset is then being processed before it is being fed into the machine learning model
